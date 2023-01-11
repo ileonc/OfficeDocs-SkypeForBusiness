@@ -1,5 +1,5 @@
 ---
-title: Limit who users can see when searching the directory in Teams
+title: Limit which users can seen when searching the directory in Teams
 author: MikePlumleyMSFT
 ms.author: mikeplum
 manager: serdars
@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 search.appverid: MET150
 ms.collection: 
   - M365-collaboration
-description: Learn how to limit who users can see when searching the directory in Teams.
+description: Learn how to limit which users can seen when searching the directory in Teams.
 f1.keywords:
 - CSH
 ms.custom: 
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Teams
 ---
 
-# Limit who users can see when searching the directory in Teams
+# Limit which users can seen when searching the directory in Teams
 
 Microsoft Teams lets organizations provide custom views of the directory to their users. These views can be useful if:
 
@@ -28,7 +28,7 @@ Microsoft Teams lets organizations provide custom views of the directory to thei
 - Your business policies require that you prevent certain groups within your organization from communicating with each other.
 - Your school wants to limit chats between faculty and students.
 
-There are two options for limiting who users can see when they search the directory in Teams:
+There are two options for limiting which users can be seen when they search the directory in Teams:
 
 - [Information barriers in Microsoft Teams](/MicrosoftTeams/information-barriers-in-teams)
 - [Address book policies in Exchange Online](/exchange/address-books/address-book-policies/address-book-policies)
